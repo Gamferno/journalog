@@ -1,0 +1,29 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Journalog"
+theme = "paper"
+[params]
+  color = 'linen'
+  twitter = 'om__pathak'
+  github = 'gamferno'
+  avatar = 'gamferno@gmail.com'
+  name = 'Om Pathak'
+  bio = 'I opened Vim 3 years ago… still there'
+  
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+##  [[menu.main]]
+##    identifier = "contact"
+##    name = "Contact"
+##    url = "/contact/"
+##    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

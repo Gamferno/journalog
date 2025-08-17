@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntax on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/syntax/</link>
+    <description>Recent content in Syntax on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2023 00:40:04 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article 1</title>
+      <link>http://localhost:1313/posts/temp/</link>
+      <pubDate>Thu, 19 Oct 2023 00:40:04 -0700</pubDate>
+      <guid>http://localhost:1313/posts/temp/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;h2 id=&#34;how-are-you&#34;&gt;How are you&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/chill_guy.jpg&#34; alt=&#34;Scenario 1: Across columns&#34;&gt;&#xA;1&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga&lt;/li&gt;&#xA;&lt;li&gt;nigga nigga&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
