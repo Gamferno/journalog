@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = "https://gamferno.github.io/journalog/"
+
 languageCode = 'en-us'
 title = "Journalog"
 theme = "paper"
